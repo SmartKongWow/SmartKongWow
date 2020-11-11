@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hi there My name is SmartKong 👋
 
 ### My Stats
-[![jini5012's github stats](https://github-readme-stats.vercel.app/api?username=jini5012&show_icons=true&theme=merko)](https://github.com/jini5012)
+[![SmartKongWow's github stats](https://github-readme-stats.vercel.app/api?username=SmartKongWow&show_icons=true&theme=merko)](https://github.com/SmartKongWow)
 
-[![jini5012's github toplang](https://github-readme-stats-mocha-zeta.vercel.app/api/top-langs/?username=jini5012&show_icons=true&theme=merko&layout=compact)](https://github.com/jini5012)
+[![SmartKongWow's github toplang](https://github-readme-stats-mocha-zeta.vercel.app/api/top-langs/?username=SmartKongWow&show_icons=true&theme=merko&layout=compact)](https://github.com/SmartKongWow)
 </div>
 
 <!--
-**coya-coya/coya-coya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jini5012/jini5012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
